@@ -1,0 +1,19 @@
+*{margin: 0px;
+  padding: 0px;}
+body{background-color: white;}
+nav{background-color: gray; color: aqua;
+    height: 800px;
+     width: 300px;
+     overflow: auto;
+    position: fixed;}
+nav h1{text-align: center;}
+nav h2{text-align: center;}
+nav li{display: block;
+    margin-top: 30px;}
+nav img{border-radius: 50%;
+        height: 300px;
+        width: 250px;}
+nav a{text-decoration: none;
+      color: white;
+     
+      }
